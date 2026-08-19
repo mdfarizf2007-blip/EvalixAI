@@ -1,0 +1,6 @@
+{
+  "name": "Evalix AI",
+  "description": "Turning Student Performance into Actionable Insights - AI-assisted learning analytics and automated answer evaluation platform for academic institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
